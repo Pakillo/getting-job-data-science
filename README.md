@@ -2,7 +2,7 @@
 
 Collection of advice and resources for getting a job as data scientist.
 
-Feel free to add additional resources through pull requests or [directly editing this README file](https://help.github.com/en/articles/editing-files-in-another-users-repository).
+Feel free to add additional resources through [pull requests](https://help.github.com/en/articles/creating-a-pull-request) or [directly editing](https://help.github.com/en/articles/editing-files-in-another-users-repository) this README file.
 
 
 ## General 
