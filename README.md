@@ -37,6 +37,8 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 ## Interview
 
+- [Udacity: Data Science Interview Prep](https://eu.udacity.com/course/data-science-interview-prep--ud944)
+
 - [Stripe: On-site interviews: what to expect](https://docs.google.com/document/d/1tgvIH69rhZMk88qNJ1CsuobKdzkc95xVZn5Khkc2qVc/edit)
 
 - [TCB Analyics: How to hire and test for data skills: a one-size-fits-all interview kit](http://tcbanalytics.com/2016/01/29/how-to-hire-and-test-for-data-skills-a-one-size-fits-all-interview-kit/)
