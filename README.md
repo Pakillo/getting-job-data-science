@@ -47,3 +47,11 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 
 
+## Where to search for jobs
+
+- LinkedIn 
+
+- Twitter
+
+- https://academicdatascience.org/jobs
+
