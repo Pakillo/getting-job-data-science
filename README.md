@@ -45,6 +45,8 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 - [Hooked on Data: Red Flags in Data Science Interviews](https://hookedondata.org/red-flags-in-data-science-interviews/)
 
+- [Data Science interview questions - with answers](https://github.com/alexeygrigorev/data-science-interviews)
+
 
 
 ## Where to search for jobs
