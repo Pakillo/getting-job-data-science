@@ -47,6 +47,8 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 - [Data Science interview questions - with answers](https://github.com/alexeygrigorev/data-science-interviews)
 
+- [Data Science Question Bank](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Question-Bank)
+
 
 
 ## Where to search for jobs
