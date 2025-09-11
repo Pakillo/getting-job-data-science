@@ -21,6 +21,8 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 - [Erin Shellman: Crushed it! Landing a data science job](http://www.erinshellman.com/crushed-it-landing-a-data-science-job/)
 
+- [Advice on how to move from academia to industry](https://github.com/IndrajeetPatil/academia-to-industry)
+
 
 
 ## Resume
