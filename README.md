@@ -31,6 +31,8 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 - [ResumeGenius: Data Scientist Resume Sample](https://resumegenius.com/resume-samples/data-scientist-resume-example)
 
+- [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%)
+
 - [DataQuest: How to Write a Great Data Science Resume](https://www.dataquest.io/blog/how-data-science-resume-cv/)
 
 - [Springboard: 7-Step Guide to Make Your Data Science Resume Pop](https://www.springboard.com/blog/data-science-resume/)
