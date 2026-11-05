@@ -35,6 +35,8 @@ Feel free to add additional resources through [pull requests](https://help.githu
 
 - [Springboard: 7-Step Guide to Make Your Data Science Resume Pop](https://www.springboard.com/blog/data-science-resume/)
 
+- [JobEmerge](https://www.jobemerge.work) - Freemium job-fit test, resume translator, and Markdown resume editor.
+
 
 
 ## Interview
@@ -60,4 +62,5 @@ Feel free to add additional resources through [pull requests](https://help.githu
 - Twitter
 
 - https://academicdatascience.org/jobs
+
 
